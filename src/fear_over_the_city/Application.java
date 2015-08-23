@@ -19,7 +19,8 @@ public class Application
         f.setResizable(false);
         f.setLocationRelativeTo(null);
         f.setVisible(true);
-        
+
         g.start();
     }
+    
 }
